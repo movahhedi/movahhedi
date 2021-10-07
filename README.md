@@ -1,4 +1,10 @@
 ### Hi there 👋
+**I'm Shahab.** Senior Developer, Designer, Technologist!
+Of course, I love to code!
+Code, code, code!
+
+##### How to Reach Me
+You may send your points to [mailto:me@shmovahhedi.com](me@shmovahhedi.com)
 
 <!--
 **movahhedi/movahhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
