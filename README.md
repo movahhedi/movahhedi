@@ -1,6 +1,8 @@
 ### Hi there 👋
 **I'm Shahab.** Senior Developer, Designer, Technologist!
+
 Of course, I love to code!
+
 Code, code, code!
 
 #### How to Reach Me
