@@ -8,6 +8,9 @@ Code, code, code!
 #### How to Reach Me
 You may send your points to [me@shmovahhedi.com](mailto:me@shmovahhedi.com)
 
+[![Movahhedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=movahhedi&show_icons=true&title_color=fff&icon_color=007fff&text_color=9f9f9f&bg_color=1E1E2E)](https://github.com/movahhedi)
+
+
 <!--
 **movahhedi/movahhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
